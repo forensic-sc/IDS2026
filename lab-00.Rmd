@@ -1,6 +1,6 @@
 ---
 title: "Lab 00 - Hello IDS!"
-author: "Loliett Valdes Castillo"
+author: "Loliett Valdes-Castillo"
 date: "25.09.2026"
 output: html_document
 ---
